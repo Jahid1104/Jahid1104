@@ -24,10 +24,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Hey 👋, This is Md. Jahid Hasan Jone
 
-Feel free to connect with me at 
+<p> Feel free to connect with me at </p>
+
 [![Gmail Badge](https://img.shields.io/badge/-hasanjahid1104@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hasanjahid1104@gmail.com)](mailto:hasanjahid1104@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-hasanjahid423-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanjahid423/)](https://www.linkedin.com/in/hasanjahid423/) [![Github Badge](https://img.shields.io/badge/-Jahid1104-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jahid1104/)](https://www.github.com/Jahid1104/) [![Twitter Badge](https://img.shields.io/badge/-hasanjahid423-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/hasanjahid423/)](https://www.twitter.com/hasanjahid423/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://jahid-jone.netlify.app/#/home/)](https://jahid-jone.netlify.app/#/home/) 
-I'm always open to discussions, collaborations, and opportunities related to my field of expertise.
+<p> I'm always open to discussions, collaborations, and opportunities related to my field of expertise.</p>
 
 <p align='left'>Gradute Research Assistant || Plan Breeding </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1ptaTn1p4n6lNZMuBnceuhHPpSmKtPWbA/view?usp=drivesdk ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
