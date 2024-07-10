@@ -22,25 +22,18 @@ Jahid1104/Jahid1104 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<p align='Center'>
 ## Hey 👋, This is Md. Jahid Hasan Jone
-<p align='Center'> <b> Gradute Research Assistant || Plan Breeding </b> </p>
+Gradute Research Assistant || Plant Breeding </p>
 
 <p align = "center"> Feel free to connect with me at </p>
+[![Gmail Badge](https://img.shields.io/badge/-hasanjahid1104@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hasanjahid1104@gmail.com)](mailto:hasanjahid1104@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-hasanjahid423-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanjahid423/)](https://www.linkedin.com/in/hasanjahid423/) [![Github Badge](https://img.shields.io/badge/-Jahid1104-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jahid1104/)](https://www.github.com/Jahid1104/) [![Twitter Badge](https://img.shields.io/badge/-hasanjahid423-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/hasanjahid423/)](https://www.twitter.com/hasanjahid423/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://jahid-jone.netlify.app/#/home/)](https://jahid-jone.netlify.app/#/home/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-hasanjahid1104@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hasanjahid1104@gmail.com)](mailto:hasanjahid1104@gmail.com) 
-
-[![Linkedin Badge](https://img.shields.io/badge/-hasanjahid423-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanjahid423/)](https://www.linkedin.com/in/hasanjahid423/) 
-
-[![Github Badge](https://img.shields.io/badge/-Jahid1104-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jahid1104/)](https://www.github.com/Jahid1104/) 
-
-[![Twitter Badge](https://img.shields.io/badge/-hasanjahid423-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/hasanjahid423/)](https://www.twitter.com/hasanjahid423/) 
-
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://jahid-jone.netlify.app/#/home/)](https://jahid-jone.netlify.app/#/home/) 
-
-<p> I'm always open to discussions, collaborations, and opportunities related to my field of expertise.</p>
+<p align='center'> I'm always open to discussions, collaborations, and opportunities related to my field of expertise.</p>
 
 <p align='center'> You can view my resume <a href='https://drive.google.com/file/d/1ptaTn1p4n6lNZMuBnceuhHPpSmKtPWbA/view?usp=drivesdk ' target=_blank><u>here</u>.</a></p>
 
+<p align='Center'>
 ## My Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid1104%20&theme=dark&hide_border=true&mode=weekly&fire=EB5454&background=000000&border=FFFFFF&stroke=EB5454)](https://git.io/streak-stats)
@@ -49,4 +42,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1104&layout=compact)](https://github.com/Jahid1104/github-readme-stats)
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=Jahid1104 alt=Jahid1104 /> </p>
+<img src=https://komarev.com/ghpvc/?username=Jahid1104 alt=Jahid1104 /> </p>
