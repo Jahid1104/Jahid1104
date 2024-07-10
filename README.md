@@ -34,5 +34,7 @@ You can click the Preview link to take a look at your changes.
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Jahid1104 alt=Jahid1104 /> </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid1104%20&theme=dark&hide_border=true&mode=weekly&fire=EB5454&background=000000&border=FFFFFF&stroke=EB5454)](https://git.io/streak-stats)
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Jahid1104&show_icons=true&include_all_commits=true)](https://github.com/Jahid1104/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1104&layout=compact)](https://github.com/Jahid1104/github-readme-stats)
