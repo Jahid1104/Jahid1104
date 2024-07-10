@@ -31,6 +31,11 @@ You can click the Preview link to take a look at your changes.
 <p> I'm always open to discussions, collaborations, and opportunities related to my field of expertise.</p>
 
 <p align='left'>Gradute Research Assistant || Plan Breeding </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1ptaTn1p4n6lNZMuBnceuhHPpSmKtPWbA/view?usp=drivesdk ' target=_blank><u>here</u>.</a></p>
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media0.giphy.com/media/k2VKaO9QITTLVxtWa1/giphy.gif?cid=6c09b952zdc3shwihmugwh16ehd6c8gn4akmxnep62ql0zx3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)" width="600" height="300"/>
+</div>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Jahid1104 alt=Jahid1104 /> </p>
 
