@@ -23,13 +23,26 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align='Center'>
-Hey 👋
-<br> This is <b> Md. Jahid Hasan Jone </b>
-<br> Gradute Research Assistant || Plant Breeding </p>
-<hr> 
-<p align = "center"> Feel free to connect with me at </p>
+Hi there, <br>
+  I'am <a href = "https://jahid-jone.netlify.app/#/home"> <b> Md Jahid Hasan Jone </b> </a>
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-hasanjahid1104@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hasanjahid1104@gmail.com)](mailto:hasanjahid1104@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-hasanjahid423-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanjahid423/)](https://www.linkedin.com/in/hasanjahid423/) [![Github Badge](https://img.shields.io/badge/-Jahid1104-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jahid1104/)](https://www.github.com/Jahid1104/) [![Twitter Badge](https://img.shields.io/badge/-hasanjahid423-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/hasanjahid423/)](https://www.twitter.com/hasanjahid423/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://jahid-jone.netlify.app/#/home/)](https://jahid-jone.netlify.app/#/home/) 
+<p align = "center">  
+Gradute Research Assistant || Plant Breeding MS Student</p>
+<hr> 
+
+Want to know more about me? 
+- [Check out my portfolio.](https://jahid-jone.netlify.app/#/home)
+
+<br/>
+
+📫 &nbsp; How to reach me:
+
+<a href="https://www.linkedin.com/in/hasanjahid423/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.twitter.com/hasanjahid423/"><img alt="X" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
+<a href="mailto:hasanjahid1104@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
+<br/>
 
 <p align='center'> I'm always open to discussions, collaborations, and opportunities related to my field of expertise.</p>
 
@@ -41,9 +54,10 @@ Hey 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid1104%20&theme=dark&hide_border=true&mode=weekly&fire=EB5454&background=000000&border=FFFFFF&stroke=EB5454)](https://git.io/streak-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jahid1104&show_icons=true&include_all_commits=true)](https://github.com/Jahid1104/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Jahid1104&show_icons=true&include_all_commits=true&theme=dark&background=000000)](https://github.com/Jahid1104/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1104&layout=compact)](https://github.com/Jahid1104/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1104&layout=compact&theme=dark)](https://github.com/Jahid1104/github-readme-stats)
 </p>
+
 <p align='Center'>
 <img src=https://komarev.com/ghpvc/?username=Jahid1104 alt=Jahid1104> </p>
