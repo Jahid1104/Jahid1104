@@ -51,6 +51,8 @@ Want to know more about me?
 <hr> 
 <p align='Center'> 
 <b>My Github Stats</b>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jahid1104&theme=darkhub)](https://github.com/Jahid1104/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid1104%20&theme=dark&hide_border=true&mode=weekly&fire=EB5454&background=000000&border=FFFFFF&stroke=EB5454)](https://git.io/streak-stats)
 
