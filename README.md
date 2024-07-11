@@ -31,16 +31,16 @@ Hi there, <br>
 Gradute Research Assistant || Plant Breeding MS Student</p>
 <hr> 
 
-Want to know more about me? 
-- [Check out my portfolio.](https://jahid-jone.netlify.app/#/home)
-
+<p align = center> Want to know more about me? <a href = "https://jahid-jone.netlify.app/#/home"> Check out my portfolio </a>
+</p>
 <br/>
 
-📫 &nbsp; How to reach me:
-
+<p align = center>
+📫 &nbsp; How to reach me: <br>
 <a href="https://www.linkedin.com/in/hasanjahid423/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://www.twitter.com/hasanjahid423/"><img alt="X" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
 <a href="mailto:hasanjahid1104@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+</p> 
 
 <br/>
 
