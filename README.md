@@ -1,5 +1,5 @@
 🌱 Greetings, 
-I'm Md. Jahid Hasan Jone, a graduate student of the Department of Genetics and Plant Breeding at Bangladesh Agricultural University. My academic journey is centred around harnessing the power of data analysis and visualization using R programming.
+My academic journey is centred around harnessing the power of data analysis and visualization using R programming.
 
 🎓 Educational Background:
 I'm currently pursuing my graduate studies, and my passion lies in exploring the intricate world of genetics and plant breeding. My academic pursuits have sharpened my skills in the art of unravelling biological mysteries through data-driven insights.
@@ -12,8 +12,7 @@ My academic focus has led me to become proficient in the art of data analysis an
 🌿 Aspirations:
 My career aspiration is to delve into the exciting realm of Molecular Biology, with a strong inclination towards functional genomics and bioinformatics. I am actively seeking a PhD opportunity to further my knowledge and contribute to cutting-edge advancements in this field.
 
-🔍 Let's Connect:
-I'm eager to engage in meaningful conversations, research collaborations, and networking opportunities within the fascinating world of plant genetics and genomics. Let's connect and explore the possibilities together.
+
 
 Thank you for taking the time to learn about my academic journey and interests. Let's work together to unlock the potential of genetics and plant breeding for a greener and healthier future. 🌿🔬📊
 
@@ -28,19 +27,33 @@ Hi there, <br>
 </p>
 
 <p align = "center">  
-Gradute Research Assistant || Plant Breeding MS Student</p>
+Graduate Research Assistant || Plant Breeding MS Student 
+<br>
+<I> Plant Molecular Breeding and Bioinformatics Laboratory,
+Department of Genetics and Plant Breeding,
+Bangladesh Agricultural University, Mymensingh - 2202 </i>
+</p>
+
 <hr> 
 
-<p align = center> Want to know more about me? <a href = "https://jahid-jone.netlify.app/#/home"> Check out my portfolio </a>
+<p align = center> 
+Want to know more about me? <a href = "https://jahid-jone.netlify.app/#/home"> Check out my portfolio </a>
 </p>
 <br/>
+
+<p align = center>
+<b> Let's Connect </b> 
+<br>
+I'm eager to engage in meaningful conversations, research collaborations, and networking opportunities within the fascinating world of plant genetics and genomics. Let's connect and explore the possibilities together. 
+<br>
+</p> 
 
 <p align = center>
 📫 &nbsp; How to reach me: <br>
 <a href="https://www.linkedin.com/in/hasanjahid423/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://www.twitter.com/hasanjahid423/"><img alt="X" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
 <a href="mailto:hasanjahid1104@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-</p> 
+</p>
 
 <br/>
 
@@ -51,12 +64,12 @@ Gradute Research Assistant || Plant Breeding MS Student</p>
 <hr> 
 <p align='Center'> 
 <b>My Github Stats</b>
-  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jahid1104&theme=darkhub)](https://github.com/Jahid1104/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid1104%20&theme=dark&hide_border=true&mode=weekly&fire=EB5454&background=000000&border=FFFFFF&stroke=EB5454)](https://git.io/streak-stats)
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Jahid1104&show_icons=true&include_all_commits=true&theme=dark&background=000000)](https://github.com/Jahid1104/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid1104%20&theme=dark&hide_border=true&mode=weekly&fire=EB5454&background=000000&border=FFFFFF&stroke=EB5454)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1104&layout=compact&theme=dark)](https://github.com/Jahid1104/github-readme-stats)
 </p>
