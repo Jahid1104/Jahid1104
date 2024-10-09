@@ -19,7 +19,7 @@ Bangladesh Agricultural University, Mymensingh - 2202 </i>
 <hr> 
 
 <p align = center> 
-Want to know more about me? <a href = "https://jahid-jone.netlify.app/#/home"> Check out my portfolio </a>
+Want to know more about me? <a href = "https://sites.google.com/view/jone-mjh"> Check out my portfolio </a>
 </p>
 <br/>
 
