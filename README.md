@@ -5,11 +5,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align='Center'>
 Hi there, <br>
-  I'am <a href = "https://jahid-jone.netlify.app/#/home"> <b> Md Jahid Hasan Jone </b> </a>
+  I'am <a href = "sites.google.com/view/jone-mjh"> <b> Md Jahid Hasan Jone </b> </a>
 </p>
 
 <p align = "center">  
-Graduate Research Assistant || Plant Breeding MS Student 
+Research Associate || Plant Breeding Graduate 
 <br>
 <I> Plant Molecular Breeding and Bioinformatics Laboratory,
 Department of Genetics and Plant Breeding,
