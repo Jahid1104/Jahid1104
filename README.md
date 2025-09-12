@@ -9,11 +9,11 @@ Hi there, <br>
 </p>
 
 <p align = "center">  
-Research Associate || Plant Breeding Graduate 
+Graduate Research Assistant 
 <br>
-<I> Plant Molecular Breeding and Bioinformatics Laboratory,
-Department of Genetics and Plant Breeding,
-Bangladesh Agricultural University, Mymensingh - 2202 </i>
+<I> Fresh Market Tomato Breeding Program,
+Department of Horticultural Science,
+North Carolina State University </i>
 </p>
 
 <hr> 
