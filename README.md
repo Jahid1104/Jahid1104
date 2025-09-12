@@ -16,7 +16,7 @@ I'm a passionate **PhD student in Horticultural Science** at North Carolina Stat
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ```yaml
 current_position: "PhD in Horticultural Science, NC State University"
@@ -68,7 +68,7 @@ I'm always excited to engage in meaningful conversations about plant genetics, r
 
 <div align="center">
 
-## Need an appointment? Book here
+## Need an appointment? <a href= https://sites.google.com/view/jone-mjh/more/contact-me> Book here </a>
 
 [![Book Meeting](https://img.shields.io/badge/📅_Book_Meeting-9C27B0?style=flat-square&logoColor=white)](https://sites.google.com/view/jone-mjh/more/contact-me)
 
