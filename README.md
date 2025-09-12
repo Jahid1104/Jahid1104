@@ -15,7 +15,6 @@
 I'm a passionate **PhD student in Horticultural Science** at North Carolina State University and **Graduate Research Assistant** specializing in plant genetics and genomics. Currently working with the **Fresh Market Tomato Breeding Program**, I'm dedicated to advancing agricultural science through innovative research in marker-assisted breeding and functional genomics.
 
 </div>
----
 <div align="left">
 
 ```yaml
@@ -28,7 +27,7 @@ fun_fact: "I believe every plant has a genetic story worth discovering! 🧬🍅
 
 </div>
 
-
+---
 <div align="center">
 
 ## 🎓 Education
