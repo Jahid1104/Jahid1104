@@ -1,62 +1,104 @@
-<!---
-Jahid1104/Jahid1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there! 👋 I'm Md Jahid Hasan Jone
 
-<p align='Center'>
-Hi there, <br>
-  I'am <a href = "sites.google.com/view/jone-mjh"> <b> Md Jahid Hasan Jone </b> </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Plant+Genetics+Researcher;Tomato+Breeding+Specialist;Graduate+Research+Assistant;Always+Learning+%26+Growing" alt="Typing SVG" />
+</div>
 
-<p align = "center">  
-Graduate Research Assistant 
-<br>
-<I> Fresh Market Tomato Breeding Program,
-Department of Horticultural Science,
-North Carolina State University </i>
-</p>
+## 🌱 About Me
 
-<hr> 
+I'm a passionate **Graduate Research Assistant** specializing in plant genetics and genomics at North Carolina State University. Currently working with the **Fresh Market Tomato Breeding Program** in the Department of Horticultural Science, I'm dedicated to advancing agricultural science through innovative research.
 
-<p align = center> 
-Want to know more about me? <a href = "https://sites.google.com/view/jone-mjh"> Check out my portfolio </a>
-</p>
-<br/>
+```yaml
+current_focus: "Fresh Market Tomato Breeding & Plant Genetics"
+location: "North Carolina State University"
+interests: ["Plant Genomics", "Agricultural Research", "Sustainable Farming"]
+currently_learning: "Advanced Breeding Techniques & Genomic Selection"
+fun_fact: "I believe every tomato has a story to tell through its genes! 🍅"
+```
 
-<p align = center>
-<b> Let's Connect </b> 
-<br>
-I'm eager to engage in meaningful conversations, research collaborations, and networking opportunities within the fascinating world of plant genetics and genomics. Let's connect and explore the possibilities together. 
-<br>
-</p> 
+## 🔬 Research Areas
 
-<p align = center>
-📫 &nbsp; How to reach me: <br>
-<a href="https://www.linkedin.com/in/hasanjahid423/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://www.twitter.com/hasanjahid423/"><img alt="X" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
-<a href="mailto:hasanjahid1104@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+### 🧬 Current Research
+- **Tomato Breeding Programs**
+- **Plant Genetics & Genomics**
+- **Crop Improvement Strategies**
+- **Molecular Marker Development**
 
-<p align='center'> I'm always open to discussions, collaborations, and opportunities related to my field of expertise.</p>
-<p align='center'> Need an appointment? <a href = "https://sites.google.com/view/jone-mjh/more/contact-me"> Book here.</a> </p>
+</td>
+<td width="50%">
 
+### 🌿 Interests
+- **Sustainable Agriculture**
+- **Food Security Solutions**
+- **Climate-Resilient Crops**
+- **Precision Breeding**
 
-<p align='center'> You can view my resume <a href='https://drive.google.com/file/d/1ptaTn1p4n6lNZMuBnceuhHPpSmKtPWbA/view?usp=drivesdk ' target=_blank><u>here</u>.</a></p>
+</td>
+</tr>
+</table>
 
-<hr> 
-<p align='Center'> 
-<b>My Github Stats</b>
+## 🤝 Let's Connect & Collaborate
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jahid1104&theme=darkhub)](https://github.com/Jahid1104/github-profile-trophy)
+I'm always excited to engage in meaningful conversations about plant genetics, research collaborations, and networking opportunities. Whether you're interested in agricultural science, genomics research, or sustainable farming practices, I'd love to connect!
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jahid1104&show_icons=true&include_all_commits=true&theme=dark&background=000000)](https://github.com/Jahid1104/github-readme-stats)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid1104%20&theme=dark&hide_border=true&mode=weekly&fire=EB5454&background=000000&border=FFFFFF&stroke=EB5454)](https://git.io/streak-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanjahid423/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/hasanjahid423/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanjahid1104@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/jone-mjh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1104&layout=compact&theme=dark)](https://github.com/Jahid1104/github-readme-stats)
-</p>
+</div>
 
-<p align='Center'>
-<img src=https://komarev.com/ghpvc/?username=Jahid1104 alt=Jahid1104> </p>
+## 📚 Resources & Documents
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-4CAF50?style=flat-square&logoColor=white)](https://sites.google.com/view/jone-mjh)
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-2196F3?style=flat-square&logoColor=white)](https://drive.google.com/file/d/1ptaTn1p4n6lNZMuBnceuhHPpSmKtPWbA/view?usp=drivesdk)
+[![Book Meeting](https://img.shields.io/badge/📅_Book_Meeting-FF9800?style=flat-square&logoColor=white)](https://sites.google.com/view/jone-mjh/more/contact-me)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jahid1104&theme=nord&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jahid1104&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1104&layout=compact&theme=nord"/>
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jahid1104&theme=nord)](https://git.io/streak-stats)
+
+### 📊 Contribution Graph
+[![Jahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jahid1104&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Jahid1104&color=4CAF50&style=flat)
+
+---
+
+⭐️ **"Growing plants, growing code, growing knowledge"** ⭐️
+
+*Made with ❤️ and lots of ☕*
+
+</div>
