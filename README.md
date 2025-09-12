@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Md Jahid Hasan Jone
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=PhD+Student+%7C+Plant+Genetics+Researcher;Tomato+Breeding+Specialist;Graduate+Research+Assistant;15%2B+Published+Research+Articles;Always+Learning+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=PhD+Student+%7C+Plant+Breeding+Researcher;Tomato+Breeding+Specialist;Graduate+Research+Assistant;Always+Learning+%26+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 I'm a passionate **PhD student in Horticultural Science** at North Carolina State University and **Graduate Research Assistant** specializing in plant genetics and genomics. Currently working with the **Fresh Market Tomato Breeding Program**, I'm dedicated to advancing agricultural science through innovative research in marker-assisted breeding and functional genomics.
 
 </div>
-
+---
 <div align="left">
 
 ```yaml
@@ -73,8 +73,6 @@ I'm always excited to engage in meaningful conversations about plant genetics, r
 [![Book Meeting](https://img.shields.io/badge/📅_Book_Meeting-9C27B0?style=flat-square&logoColor=white)](https://sites.google.com/view/jone-mjh/more/contact-me)
 
 </div>
-
----
 
 ---
 
